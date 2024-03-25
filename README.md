@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amziepickles
-- 👀 I’m interested in epigenetics
-- 🌱 I’m currently learning bioinformatics
-- 📫 How to reach me amziepickles@gmail.com
+- 👋 Hi, I’m Amy!
+- 👀 I’m interested in epigenetics and precision medicine
+- 🌱 I’m a recent MSc Bioinformatics Graduate
+- 📫 How to reach me maylouisehayward@gmail.com
 
 <!---
 amziepickles/amziepickles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
